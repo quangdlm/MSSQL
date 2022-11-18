@@ -1,8 +1,8 @@
 # Microsoft SQL Server
 ## This is some SQL Statements using for:
 ### CREATE DATABASE and TABLE
-      CREATE DATABASE DatabaseName
-      CREATE TABLE TableName
+      CREATE DATABASE DatabaseName;
+      CREATE TABLE TableName;
 ### SELECT FROM TABLE
   ### Select all from table
       SELECT * FROM table_name;
