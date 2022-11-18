@@ -1,5 +1,5 @@
 # Microsoft SQL Server
-##This is some SQL Statements using for:
+## This is some SQL Statements using for:
   Create dabatase
   Create table
   Insert into table
